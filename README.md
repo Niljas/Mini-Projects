@@ -1,3 +1,3 @@
 # Mini-Projects
 
-Python Mini games projects
+Python Mini projects, check folders for code.
