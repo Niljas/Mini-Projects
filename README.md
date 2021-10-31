@@ -1,3 +1,3 @@
-# Mini-Games
+# Mini-Projects
 
 Python Mini games projects
